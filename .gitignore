@@ -1,0 +1,10 @@
+# ignore folder
+.env
+env/
+.data
+data/
+
+# ignore extension
+*.png
+*.jpg
+*.jpeg
